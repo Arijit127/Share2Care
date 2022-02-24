@@ -1,11 +1,10 @@
 import React from 'react';
 import './App.css';
-import Quora from './components/Quora';
 
 function App() {
   return (
     <div className="App">
-    <Quora/>
+    <h1>Heya</h1>
     </div>
   );
 }
